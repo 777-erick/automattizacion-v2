@@ -1,8 +1,8 @@
 # Entrega · Duelo de herramientas
 
 **Equipo:** Cypress  
-**Integrantes:** John Erick Hoyos  
-**Repositorio:** https://github.com/HombreAmarilloPv/ParaElBoboHpta  
+**Integrantes:** John Erick Hoyos, Miguel Ángel Hernandez, Juan José Parra 
+**Repositorio:** https://github.com/777-erick/automattizacion-v2  
 **Herramienta que nos tocó:** ☐ Selenium + Mocha &nbsp; ☑ Cypress &nbsp; ☐ Playwright + Cucumber  
 **Escenario que nos tocó:** E3 · Seguros del Valle — Aseguradora con 600 pruebas heredadas en Selenium
 

@@ -3,7 +3,7 @@
   "equipo": "Cypress",
   "herramienta": "playwright",
   "nombre": "Playwright Test (control)",
-  "fecha": "2026-10-31T01:17:14.734Z",
+  "fecha": "2026-10-31T01:28:41.095Z",
   "entorno": {
     "node": "v24.22.0",
     "sistema": "win32 x64"
@@ -13,14 +13,14 @@
     "completas": 5,
     "conFallos": 0,
     "segundos": [
+      3.85,
+      3.89,
       3.97,
-      3.84,
-      3.9,
-      3.99,
-      3.9
+      3.88,
+      3.99
     ],
-    "mediana": 3.9,
-    "minimo": 3.84,
+    "mediana": 3.89,
+    "minimo": 3.85,
     "maximo": 3.99
   },
   "pruebas": {

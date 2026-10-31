@@ -1,6 +1,6 @@
 {
   "equipo": "Cypress",
-  "integrantes": ["John Erick Hoyos"],
+  "integrantes": ["John Erick Hoyos", "Miguel Ángel Hernandez", "Juan José Parra"],
   "escenario": "E3 - Seguro del valle",
   "usoDeIA": "Para solución de errores",
   "minutos": {

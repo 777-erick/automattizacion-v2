@@ -2,7 +2,7 @@
 
 - **Estado:** Propuesta
 - **Fecha:** 2026-10-30
-- **Equipo:** Cypress (John Erick Hoyos)
+- **Equipo:** Cypress (John Erick Hoyos, Miguel Ángel Hernandez, Juan José Parra)
 
 ## Contexto
 
